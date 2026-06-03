@@ -1,0 +1,1 @@
+-- This file has been replaced by the updated database from SmartTravelPlanner.
